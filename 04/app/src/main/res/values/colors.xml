@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#373B68</color>
+    <color name="colorAccent">#F44336</color>
+
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorBg">#000000</color>
+    <color name="colorAbout">#949393</color>
+    <color name="colorTitle">#FFFFFF</color>
+    <color name="colorSubTitle">#D3D3D3</color>
+
+    <color name="ripple1">#F44336</color>
+    <color name="ripple2">#FF5722</color>
+
+</resources>
